@@ -1,4 +1,4 @@
-ls1 = input().split(' ')
+ls1 = eval(input())
 #ls1 = ['hello','rainbow','orange','e-cell','later','wooh']
 p = len(ls1)
 l1 = []
